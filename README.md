@@ -11,7 +11,7 @@ A collection of geospatial data visualizations created using Python for the #30d
 - **Day 10: North America** - Cost of living index visualization across US and Canadian cities
 - **Day 15: OSM** - Walking isochrones in Paris using OpenStreetMap data
 - **Day 16: Oceania** - Auckland's train network and walking accessibility
-- **Day 17: Flow** - Chicago community areas analysis
+- **Day 17: Flow** - Chicago taxi trip analysis
 - **Day 28: Is this a chart or a map?** - Street network orientation analysis of Australian cities
 - **Day 30: My Favorite** - Amsterdam's bicycle rental accessibility analysis
 
@@ -24,7 +24,6 @@ A collection of geospatial data visualizations created using Python for the #30d
   - Folium
   - Kepler.gl
   - H3
-  - Contextily
   - Matplotlib
   - Seaborn
 
@@ -64,11 +63,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-- Saeed MCM
+- Saeed Makaremi
 - GitHub: [@saeedmcm](https://github.com/saeedmcm)
 
 ## 🙏 Acknowledgments
 
 - #30daymapchallenge community
 - OpenStreetMap contributors
+- Geoff Boeing for creating OSMnx
 - Various data providers mentioned in the notebooks
