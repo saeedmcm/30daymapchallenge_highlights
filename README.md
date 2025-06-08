@@ -70,5 +70,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - #30daymapchallenge community
 - OpenStreetMap contributors
-- Geoff Boeing for creating OSMnx
+- [@Geoff Boeing] (https://github.com/gboeing) for creating OSMnx
 - Various data providers mentioned in the notebooks
